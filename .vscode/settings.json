@@ -1,0 +1,16 @@
+{
+        "java.project.sourcePaths": [
+                ".",
+                "arrays",
+                "Function_Module\\src",
+                "Interface",
+                "Java 8",
+                "loop\\src",
+                "Map",
+                "Pattern\\src",
+                "recursion\\src",
+                "regex",
+                "switch\\src"
+        ],
+        "java.project.referencedLibraries": []
+}
